@@ -4,6 +4,7 @@
 This repository is a space for Penn SICSS 2023!
 
 **Day 2: CSS and GitHub:**
+
 Morning preparation: 
 1. Download and install Git (https://git-scm.com/downloads)
 2. Open up a Github account and remember your username (https://github.com/)
