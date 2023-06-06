@@ -1,7 +1,7 @@
 # Penn-SICSS-2023
 
 
-This repository is a space for SICSS PEnn 2023!
+This repository is a space for Penn SICSS 2023!
 
 
 Slides for Day 2: Computational Social Science and GitHub 
