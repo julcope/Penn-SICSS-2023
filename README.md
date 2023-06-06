@@ -1,8 +1,10 @@
 # Penn-SICSS-2023
 
 
-This repository will be the home of all things Computation Social Science (CSS) learning for Penn SICSS 2023. 
+This repository is a space for SICSS PEnn 2023!
 
-Every morning we ask you to pull from the sub-repository and fill out a google form...
 
-More coming soon...
+Slides for Day 2: Computational Social Science and GitHub 
+https://docs.google.com/presentation/d/1i6_7D0R5vtfIXLC8upyWyBzXc3-86UnaeQn92k5TF44/edit?usp=sharing
+
+
